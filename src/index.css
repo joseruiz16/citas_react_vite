@@ -1,0 +1,4 @@
+/*agrego los paquetes que tiene tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
